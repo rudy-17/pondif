@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pondif/static/css/main.c54b6775.css",
+    "main.js": "/pondif/static/js/main.772363cd.js",
+    "static/js/787.9f4d1261.chunk.js": "/pondif/static/js/787.9f4d1261.chunk.js",
+    "index.html": "/pondif/index.html",
+    "main.c54b6775.css.map": "/pondif/static/css/main.c54b6775.css.map",
+    "main.772363cd.js.map": "/pondif/static/js/main.772363cd.js.map",
+    "787.9f4d1261.chunk.js.map": "/pondif/static/js/787.9f4d1261.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c54b6775.css",
+    "static/js/main.772363cd.js"
+  ]
+}
