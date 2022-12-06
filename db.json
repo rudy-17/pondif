@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "text": "Paradise island",
+      "day": "day 1",
+      "reminder": false,
+      "id": 1
+    },
+    {
+      "text": "Rock beach",
+      "day": "day 2",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Aurovile mandir",
+      "day": "day 3",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Mangrove forest",
+      "day": "day 3",
+      "reminder": false,
+      "id": 4
+    },
+    {
+      "text": "food cafe",
+      "day": "day 1",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
